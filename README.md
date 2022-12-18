@@ -19,4 +19,4 @@ When you lose, you lose your money.
 
 
 
-5. I've added a trick to win in playing, you don't always lose :D
+I added a cheat to win in the 5. game, you will not always lose :D
