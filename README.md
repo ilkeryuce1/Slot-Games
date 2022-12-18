@@ -16,3 +16,7 @@ When you lose, you lose your money.
 
 ![You Lost](https://user-images.githubusercontent.com/109898238/208313228-f416ccd0-c346-4bb0-8256-cb0397f7cdb5.png)
 ![win](https://user-images.githubusercontent.com/109898238/208313284-849d1309-4743-4423-9da8-47a54de9d6ee.png)
+
+
+
+5. I've added a trick to win in playing, you don't always lose :D
