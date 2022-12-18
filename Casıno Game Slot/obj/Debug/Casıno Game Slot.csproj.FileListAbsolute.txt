@@ -1,0 +1,33 @@
+C:\Users\ilker\Desktop\PD\CP\Casıno Game Slot\bin\Debug\Casıno Game Slot.exe.config
+C:\Users\ilker\Desktop\PD\CP\Casıno Game Slot\bin\Debug\Casıno Game Slot.exe
+C:\Users\ilker\Desktop\PD\CP\Casıno Game Slot\bin\Debug\Casıno Game Slot.pdb
+C:\Users\ilker\Desktop\PD\CP\Casıno Game Slot\obj\Debug\Casıno Game Slot.csproj.AssemblyReference.cache
+C:\Users\ilker\Desktop\PD\CP\Casıno Game Slot\obj\Debug\Casıno Game Slot.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilker\Desktop\PD\CP\Casıno Game Slot\obj\Debug\Casıno_Game_Slot.Form1.resources
+C:\Users\ilker\Desktop\PD\CP\Casıno Game Slot\obj\Debug\Casıno_Game_Slot.Properties.Resources.resources
+C:\Users\ilker\Desktop\PD\CP\Casıno Game Slot\obj\Debug\Casıno Game Slot.csproj.GenerateResource.cache
+C:\Users\ilker\Desktop\PD\CP\Casıno Game Slot\obj\Debug\Casıno Game Slot.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\PD\CP\Casıno Game Slot\obj\Debug\Casıno Game Slot.exe
+C:\Users\ilker\Desktop\PD\CP\Casıno Game Slot\obj\Debug\Casıno Game Slot.pdb
+C:\Users\ilker\Desktop\C#\Casıno Game Slot\bin\Debug\Casıno Game Slot.exe.config
+C:\Users\ilker\Desktop\C#\Casıno Game Slot\bin\Debug\Casıno Game Slot.exe
+C:\Users\ilker\Desktop\C#\Casıno Game Slot\bin\Debug\Casıno Game Slot.pdb
+C:\Users\ilker\Desktop\C#\Casıno Game Slot\obj\Debug\Casıno Game Slot.csproj.AssemblyReference.cache
+C:\Users\ilker\Desktop\C#\Casıno Game Slot\obj\Debug\Casıno Game Slot.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilker\Desktop\C#\Casıno Game Slot\obj\Debug\Casıno_Game_Slot.Form1.resources
+C:\Users\ilker\Desktop\C#\Casıno Game Slot\obj\Debug\Casıno_Game_Slot.Properties.Resources.resources
+C:\Users\ilker\Desktop\C#\Casıno Game Slot\obj\Debug\Casıno Game Slot.csproj.GenerateResource.cache
+C:\Users\ilker\Desktop\C#\Casıno Game Slot\obj\Debug\Casıno Game Slot.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\C#\Casıno Game Slot\obj\Debug\Casıno Game Slot.exe
+C:\Users\ilker\Desktop\C#\Casıno Game Slot\obj\Debug\Casıno Game Slot.pdb
+C:\Users\ilker\Desktop\Yazılım\C#\Casıno Game Slot\bin\Debug\Casıno Game Slot.exe.config
+C:\Users\ilker\Desktop\Yazılım\C#\Casıno Game Slot\bin\Debug\Casıno Game Slot.exe
+C:\Users\ilker\Desktop\Yazılım\C#\Casıno Game Slot\bin\Debug\Casıno Game Slot.pdb
+C:\Users\ilker\Desktop\Yazılım\C#\Casıno Game Slot\obj\Debug\Casıno Game Slot.csproj.AssemblyReference.cache
+C:\Users\ilker\Desktop\Yazılım\C#\Casıno Game Slot\obj\Debug\Casıno Game Slot.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilker\Desktop\Yazılım\C#\Casıno Game Slot\obj\Debug\Casıno_Game_Slot.Form1.resources
+C:\Users\ilker\Desktop\Yazılım\C#\Casıno Game Slot\obj\Debug\Casıno_Game_Slot.Properties.Resources.resources
+C:\Users\ilker\Desktop\Yazılım\C#\Casıno Game Slot\obj\Debug\Casıno Game Slot.csproj.GenerateResource.cache
+C:\Users\ilker\Desktop\Yazılım\C#\Casıno Game Slot\obj\Debug\Casıno Game Slot.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\Yazılım\C#\Casıno Game Slot\obj\Debug\Casıno Game Slot.exe
+C:\Users\ilker\Desktop\Yazılım\C#\Casıno Game Slot\obj\Debug\Casıno Game Slot.pdb
