@@ -6,7 +6,8 @@ There are controls that will prevent you from starting the game without depositi
 
 
 The deposited amount is added to your balance.
-https://user-images.githubusercontent.com/109898238/208313203-44f78b10-a771-4b50-ba21-7eda45c3cf24.png
+![You Lost](https://user-images.githubusercontent.com/109898238/208313382-c1be236b-b8f2-4339-abb5-14d1fe7f241d.png)
+
 
 When you win, 2 times the deposited amount is won and the balance is reset, and you are asked to deposit again.
 When you lose, you lose your money.
